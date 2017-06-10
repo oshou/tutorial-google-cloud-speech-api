@@ -40,8 +40,8 @@ def main(speech_file):
             },
             'audio': {
                 'content': speech_content.decode('UTF-8')
-                }
-            })
+            }
+        })
 
     response = service_request.execute()
     print(json.dumps(response))
