@@ -8,7 +8,7 @@ REST API 音声認識チュートリアル
 
 ## 事前準備
 事前に以下URLよりGoogleAPIキーの作成を行う。
-https://codelabs.developers.google.com/codelabs/cloud-speech-intro-ja/index.html
+- https://codelabs.developers.google.com/codelabs/cloud-speech-intro-ja/index.html
 
 ## 実行手順
 1. $ export GOOGLE_APPLICATION_CREDENTIALS = /path/to/service_account_file.json
